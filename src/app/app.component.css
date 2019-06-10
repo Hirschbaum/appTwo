@@ -1,0 +1,16 @@
+* {
+  font-family: Helvetica;
+  color: rgb(43, 9, 75);
+  background-color: cadetblue;
+  margin: 0 auto;
+  padding: 2px;
+
+}
+h2 {
+  text-align: center;
+  color: #ffffff;
+}
+h3 {
+  list-style: none;
+  text-align: center;
+}
